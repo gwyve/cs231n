@@ -1,2 +1,2 @@
 # cs231n
-for assignments of cs231n
+It is solution of cs231n assignments
